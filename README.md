@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alireza Ansari</h1>
-<h3 align="center">IOT and AI Developer</h3>
+<h3 align="center">Djnogo Web Developer</h3>
 
 <p align="left">Ali Bigdeli is an IT professional with a degree in Artificial Intelligence and Robotics. His passion for the intersection of AI and IoT has been the driving force behind his education, work, and development.</p>
 
@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **IOT Platform**
 
-- 🌱 I’m currently learning **ReactJS Frontend Framework**
+- 🌱 I’m currently learning ** Django Advance **
 
 - 👯 I’m looking to collaborate on **IOT Projects as R&D Developer**
 
