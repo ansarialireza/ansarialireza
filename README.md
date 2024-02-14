@@ -22,8 +22,6 @@
 
 - 📫 How to reach me **anssrza@gmail.com**
 
-- 📄 Know about my experiences [https://thealibigdeli.ir](https://thealibigdeli.ir)
-
 - ⚡ Fun fact **I really see different now..**
 
 <h3 align="left">Connect with me:</h3>
