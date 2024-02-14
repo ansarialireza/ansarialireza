@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **anssrza@gmail.com**
 
-- ⚡ Fun fact **I really see different now..**
+- ⚡ Fun fact **I view the world with a distinctive perspective, harmonizing technology and creativity in my daily experiences.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
