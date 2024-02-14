@@ -4,6 +4,7 @@
 <p align="left">Alireza Ansari, currently a student pursuing Industrial Computer Engineering at Shiraz University..</p>
 <p align="left">I'm a Python enthusiast with over two years of experience, and I've been exploring the world of web development for about a year, specifically with Django.</p>
 <p align="left">In addition to my technical skills, I have a keen interest in continuous learning and expanding my knowledge base. Nature and art captivate me, and I find joy in combining my technical expertise with creativity. Whether it's delving into code or exploring the outdoors, I thrive on challenges and love the process of solving problems.</p>
+<p align="left">When not immersed in technology, I prioritize a healthy lifestyle through sports and physical activities. I'm fluent in both English and Persian</p>
 
 
 
