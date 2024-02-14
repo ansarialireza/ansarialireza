@@ -31,12 +31,6 @@
 <a href="https://www.youtube.com/user/TheAlibigdeli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thealibigdeli" height="25" width="35" /></a>
 <a href="https://www.aparat.com/allan" target="blank"><img align="center" src="https://seeklogo.com/images/A/aparat-logo-E058915B14-seeklogo.com.png" alt="thealibigdeli" height="25" width="25" /></a>
 </p>
-
-<h3 align="left">Tutor at:</h3>
-<p align="left">
-<a href="https://maktabkhooneh.org/learn/?q=%D8%B9%D9%84%DB%8C+%D8%A8%DB%8C%DA%AF%D8%AF%D9%84%DB%8C" target="blank"><img align="center" src="https://maktabkhooneh.org/static/images/maktabkhooneh/brandmark_small.png" alt="thealibigdeli" height="50" width="150" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="26" height="26"/> 
