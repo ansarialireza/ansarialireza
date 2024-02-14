@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Python,Django**
 
-- 📫 How to reach me **bigdeli.ali3@gmail.com**
+- 📫 How to reach me **anssrza@gmail.com**
 
 - 📄 Know about my experiences [https://thealibigdeli.ir](https://thealibigdeli.ir)
 
