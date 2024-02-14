@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alireza Ansari</h1>
 <h3 align="center">Djnogo Web Developer</h3>
 
-<p align="left">Ali Bigdeli is an IT professional with a degree in Artificial Intelligence and Robotics. His passion for the intersection of AI and IoT has been the driving force behind his education, work, and development.</p>
+<p align="left">Alireza Ansari, currently a student pursuing Industrial Computer Engineering at Shiraz University..</p>
 
 <p align="left">With over 5 years of programming experience and a strong background in networking and communications, Ali has played a pivotal role in many projects. His programming specialties include Python, C++/C, and Arduino.</p>
 
