@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alireza Ansari</h1>
-<h3 align="center">Djnogo Web Developer</h3>
+<h3 align="center">Django Web Developer</h3>
 
 <p align="left">Alireza Ansari, currently a student pursuing Industrial Computer Engineering at Shiraz University..</p>
+<p align="left">I'm a Python enthusiast with over two years of experience, and I've been exploring the world of web development for about a year, specifically with Django.</p>
+<p align="left">In addition to my technical skills, I have a keen interest in continuous learning and expanding my knowledge base. Nature and art captivate me, and I find joy in combining my technical expertise with creativity. Whether it's delving into code or exploring the outdoors, I thrive on challenges and love the process of solving problems.</p>
 
-<p align="left">With over 5 years of programming experience and a strong background in networking and communications, Ali has played a pivotal role in many projects. His programming specialties include Python, C++/C, and Arduino.</p>
-
-<p align="left">In 2016, Ali founded ICC-ARIA, a team dedicated to teaching various specialties in the field of AI and IoT, with a particular focus on backend and framework designs such as Django. He has a unique ability to ideate and transform ideas into products, as well as reverse engineer existing products to uncover their underlying mechanisms.</p>
-
-<p align="left">Currently, Ali is upgrading his skills in microservices architecture and DevOps tools, such as Kubernetes and monitoring, to become a full-stack developer in the field of IoT. He is also learning ReactJS to create and develop dashboards, monitoring, and control panels for devices, which will allow him to contribute more effectively to IoT projects.</p>
 
 
 ![Visitor count](https://komarev.com/ghpvc/?username=alibigdeli&color=green)
