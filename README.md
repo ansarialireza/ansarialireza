@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on projects related to **Django and web development**
 
-- 💬 Ask me about **Python,IOT,AI**
+- 💬 Ask me about **Python,Django**
 
 - 📫 How to reach me **bigdeli.ali3@gmail.com**
 
