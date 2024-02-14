@@ -12,13 +12,11 @@
 [![Website](https://img.shields.io/website?down_color=blue&down_message=blue&up_color=yellow&up_message=my%20resume&url=https%3A%2F%2Falibigdeli.github.io%2F)](https://alibigdeli.github.io)
 
 
-- 🔭 I’m currently working on **IOT Platform**
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Django Advance**
+- 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on **IOT Projects as R&D Developer**
-
-- 📝 I regularly write articles on [https://thealibigdeli.ir](https://thealibigdeli.ir)
+- 👯 I’m looking to collaborate on projects related to **Django and web development**
 
 - 💬 Ask me about **Python,IOT,AI**
 
