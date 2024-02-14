@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **IOT Platform**
 
-- 🌱 I’m currently learning ** Django Advance **
+- 🌱 I’m currently learning **Django Advance**
 
 - 👯 I’m looking to collaborate on **IOT Projects as R&D Developer**
 
