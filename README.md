@@ -3,7 +3,7 @@
 
 <p align="left">
 🎓 Currently pursuing Industrial Computer Engineering at Shiraz University.<br>
-💻 Python enthusiast with 4+ years coding experience and 1+ year specializing in Django & FastAPI web development.<br>
+💻 Python enthusiast with 4+ years coding experience.<br>
 🔥 Passionate about crafting clean, efficient, and maintainable backend solutions.<br>
 🌿 Nature lover, photographer, and adventurer who blends creativity with technology.<br>
 ⚡ Dedicated to continuous learning, problem-solving, and building reliable software systems.
