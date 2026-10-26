@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 320" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 320" width="100%" height="100%">
   <defs>
     <!-- Background Gradient -->
     <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -19,7 +19,7 @@
     </pattern>
 
     <!-- Subtle Radial Glow behind Brand -->
-    <radialGradient id="ambientGlow" cx="80%" cy="20%" r="60%">
+    <radialGradient id="ambientGlow" cx="80%" cy="25%" r="60%">
       <stop offset="0%" stop-color="#CCFF00" stop-opacity="0.10" />
       <stop offset="60%" stop-color="#CCFF00" stop-opacity="0.01" />
       <stop offset="100%" stop-color="#0D1117" stop-opacity="0" />
@@ -55,29 +55,36 @@
     }
     .spec-item {
       font-family: "SF Mono", Monaco, "Cascadia Code", "Roboto Mono", Consolas, monospace;
-      font-size: 11.5px;
+      font-size: 12px;
       fill: #8B949E;
     }
     .spec-value {
       font-weight: 600;
       fill: #CCFF00;
     }
+    .infra-label {
+      font-family: "SF Mono", Monaco, "Cascadia Code", monospace;
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 1px;
+      fill: #8B949E;
+    }
   </style>
 
   <!-- Background Base -->
-  <rect width="920" height="320" rx="16" fill="url(#bgGradient)" stroke="#27313B" stroke-width="1.5" />
+  <rect width="960" height="320" rx="16" fill="url(#bgGradient)" stroke="#27313B" stroke-width="1.5" />
 
   <!-- Grid Layer -->
-  <rect width="920" height="320" rx="16" fill="url(#gridPattern)" />
+  <rect width="960" height="320" rx="16" fill="url(#gridPattern)" />
 
   <!-- Ambient Light -->
-  <rect width="920" height="320" rx="16" fill="url(#ambientGlow)" />
+  <rect width="960" height="320" rx="16" fill="url(#ambientGlow)" />
 
   <!-- Top Accent Bar (Electric Lime) -->
-  <rect x="0" y="0" width="920" height="3.5" rx="2" fill="url(#limeGlow)" />
+  <rect x="0" y="0" width="960" height="3.5" rx="2" fill="url(#limeGlow)" />
 
   <!-- Main Left Content Block -->
-  <g transform="translate(48, 54)">
+  <g transform="translate(48, 52)">
     <!-- Role Sub-Header / Chip -->
     <rect x="0" y="0" width="248" height="26" rx="6" fill="#161B22" stroke="#2E3B27" stroke-width="1" />
     <circle cx="12" cy="13" r="3.5" fill="#CCFF00" />
@@ -87,59 +94,58 @@
     <text x="0" y="66" class="name-title">Alireza Ansari</text>
 
     <!-- Architectural Positioning Statement -->
-    <text x="0" y="105" class="tagline">
+    <text x="0" y="104" class="tagline">
       Designing &amp; building <tspan class="tagline-bold">end-to-end full-stack architectures</tspan> and
     </text>
-    <text x="0" y="129" class="tagline">
+    <text x="0" y="128" class="tagline">
       production-grade <tspan class="tagline-bold">AI knowledge retrieval (RAG) systems</tspan>.
     </text>
 
     <!-- Engineering Principles / Highlights -->
-    <g transform="translate(0, 168)">
+    <g transform="translate(0, 172)">
       <!-- Metric/Spec Item 1 -->
       <g transform="translate(0, 0)">
-        <text class="spec-item"><tspan class="spec-value">01 /</tspan> Python | Django | FastAPI</text>
+        <text class="spec-item"><tspan class="spec-value">01 /</tspan> Python · Django · FastAPI</text>
       </g>
       <!-- Metric/Spec Item 2 -->
-      <g transform="translate(230, 0)">
-        <text class="spec-item"><tspan class="spec-value">02 /</tspan> PostgreSQL | pgvector | RAG</text>
+      <g transform="translate(210, 0)">
+        <text class="spec-item"><tspan class="spec-value">02 /</tspan> PostgreSQL · pgvector · RAG</text>
       </g>
       <!-- Metric/Spec Item 3 -->
-      <g transform="translate(470, 0)">
-        <text class="spec-item"><tspan class="spec-value">03 /</tspan> React | Next.js | TypeScript</text>
+      <g transform="translate(435, 0)">
+        <text class="spec-item"><tspan class="spec-value">03 /</tspan> React · Next.js · TypeScript</text>
       </g>
     </g>
   </g>
 
   <!-- Right Visual Motif: Architecture Topology / Vector Graph -->
-  <g transform="translate(680, 50)" opacity="0.9">
-    <!-- Geometric Architecture Symbol -->
-    <rect x="30" y="20" width="150" height="150" rx="12" fill="#111820" stroke="#27313B" stroke-width="1.2" />
+  <g transform="translate(755, 45)" opacity="0.95">
+    <!-- Geometric Architecture Symbol Container -->
+    <rect x="0" y="0" width="160" height="160" rx="14" fill="#111820" stroke="#27313B" stroke-width="1.2" />
     
     <!-- Coordinate / Matrix Dots -->
-    <circle cx="55" cy="45" r="2" fill="#4B5563" />
-    <circle cx="105" cy="45" r="2" fill="#4B5563" />
-    <circle cx="155" cy="45" r="2" fill="#4B5563" />
-    <circle cx="55" cy="95" r="2" fill="#4B5563" />
-    <circle cx="105" cy="95" r="3" fill="#CCFF00" />
-    <circle cx="155" cy="95" r="2" fill="#4B5563" />
-    <circle cx="55" cy="145" r="2" fill="#4B5563" />
-    <circle cx="105" cy="145" r="2" fill="#4B5563" />
-    <circle cx="155" cy="145" r="2" fill="#4B5563" />
+    <circle cx="30" cy="30" r="2" fill="#4B5563" />
+    <circle cx="80" cy="30" r="2" fill="#4B5563" />
+    <circle cx="130" cy="30" r="2" fill="#4B5563" />
+    <circle cx="30" cy="80" r="2" fill="#4B5563" />
+    <circle cx="80" cy="80" r="3" fill="#CCFF00" />
+    <circle cx="130" cy="80" r="2" fill="#4B5563" />
+    <circle cx="30" cy="130" r="2" fill="#4B5563" />
+    <circle cx="80" cy="130" r="2" fill="#4B5563" />
+    <circle cx="130" cy="130" r="2" fill="#4B5563" />
 
     <!-- Connection Paths -->
-    <path d="M 55 45 L 105 95 L 155 45" fill="none" stroke="#2E3B27" stroke-width="1.5" />
-    <path d="M 55 145 L 105 95 L 155 145" fill="none" stroke="#CCFF00" stroke-width="1.5" stroke-dasharray="3,3" />
-    <path d="M 105 45 L 105 145" fill="none" stroke="#CCFF00" stroke-width="1" />
+    <path d="M 30 30 L 80 80 L 130 30" fill="none" stroke="#2E3B27" stroke-width="1.5" />
+    <path d="M 30 130 L 80 80 L 130 130" fill="none" stroke="#CCFF00" stroke-width="1.5" stroke-dasharray="3,3" />
+    <path d="M 80 30 L 80 130" fill="none" stroke="#CCFF00" stroke-width="1" />
 
     <!-- Center Vector Core Node -->
-    <circle cx="105" cy="95" r="9" fill="#0D1117" stroke="#CCFF00" stroke-width="2" />
-    <circle cx="105" cy="95" r="3.5" fill="#CCFF00" />
+    <circle cx="80" cy="80" r="9" fill="#0D1117" stroke="#CCFF00" stroke-width="2" />
+    <circle cx="80" cy="80" r="3.5" fill="#CCFF00" />
 
-    <!-- Status Indicator Box -->
-    <rect x="25" y="186" width="160" height="24" rx="5" fill="#090D11" stroke="#212830" stroke-width="1" />
-    <text x="105" y="202" font-family="'SF Mono', Monaco, monospace" font-size="10.5" fill="#8B949E" text-anchor="middle">
-      <tspan fill="#CCFF00">&#9679;</tspan> CORE INFRASTRUCTURE
-    </text>
+    <!-- Status Indicator Box Below Graphic -->
+    <rect x="0" y="174" width="160" height="26" rx="6" fill="#090D11" stroke="#212830" stroke-width="1" />
+    <circle cx="18" cy="187" r="3" fill="#CCFF00" />
+    <text x="28" y="190.5" class="infra-label">CORE INFRASTRUCTURE</text>
   </g>
 </svg>
