@@ -98,15 +98,15 @@
     <g transform="translate(0, 168)">
       <!-- Metric/Spec Item 1 -->
       <g transform="translate(0, 0)">
-        <text class="spec-item"><tspan class="spec-value">01 /</tspan> Python · Django · FastAPI</text>
+        <text class="spec-item"><tspan class="spec-value">01 /</tspan> Python | Django | FastAPI</text>
       </g>
       <!-- Metric/Spec Item 2 -->
       <g transform="translate(230, 0)">
-        <text class="spec-item"><tspan class="spec-value">02 /</tspan> PostgreSQL · pgvector · RAG</text>
+        <text class="spec-item"><tspan class="spec-value">02 /</tspan> PostgreSQL | pgvector | RAG</text>
       </g>
       <!-- Metric/Spec Item 3 -->
       <g transform="translate(470, 0)">
-        <text class="spec-item"><tspan class="spec-value">03 /</tspan> React · Next.js · TypeScript</text>
+        <text class="spec-item"><tspan class="spec-value">03 /</tspan> React | Next.js | TypeScript</text>
       </g>
     </g>
   </g>
@@ -139,7 +139,7 @@
     <!-- Status Indicator Box -->
     <rect x="25" y="186" width="160" height="24" rx="5" fill="#090D11" stroke="#212830" stroke-width="1" />
     <text x="105" y="202" font-family="'SF Mono', Monaco, monospace" font-size="10.5" fill="#8B949E" text-anchor="middle">
-      <tspan fill="#CCFF00">●</tspan> CORE INFRASTRUCTURE
+      <tspan fill="#CCFF00">&#9679;</tspan> CORE INFRASTRUCTURE
     </text>
   </g>
 </svg>

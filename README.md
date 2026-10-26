@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hero-banner.svg" alt="Alireza Ansari — Full-Stack Software Engineer & AI Infrastructure" width="100%" />
+  <img src="assets/hero-banner.svg" alt="Alireza Ansari -- Full-Stack Software Engineer & AI Infrastructure" width="100%" />
 </div>
 
 <p align="center">
@@ -37,7 +37,7 @@ I approach software as an interconnected system rather than isolated snippets of
 
 ### [01 / Weirwise Core](https://github.com/ansarialireza/weirwise-core)
 > **Open-Source Modular RAG & Knowledge Retrieval Infrastructure**  
-> *Python · FastAPI · PostgreSQL · pgvector · Alembic · Docker · pytest*
+> *Python | FastAPI | PostgreSQL | pgvector | Alembic | Docker | pytest*
 
 Weirwise Core provides a self-hostable, production-ready backend for Retrieval-Augmented Generation (RAG). It abstracts asynchronous document ingestion, chunking pipelines, vector similarity search, and multi-tenant isolation into a clean developer API and standalone Python SDK.
 
@@ -47,13 +47,13 @@ Weirwise Core provides a self-hostable, production-ready backend for Retrieval-A
 - **Python Client SDK**: Dedicated, typed client library (`packages/python-sdk`) published for rapid backend integration.
 - **Verification & Testing**: Comprehensive automated test suite and database diagnostics CLI tools.
 
-🔗 **Links**: [Repository & Codebase](https://github.com/ansarialireza/weirwise-core) · [Project Ecosystem (`weirwise.com`)](https://weirwise.com)
+🔗 **Links**: [Repository & Codebase](https://github.com/ansarialireza/weirwise-core) | [Project Ecosystem (`weirwise.com`)](https://weirwise.com)
 
 ---
 
 ### [02 / Personal AI Assistant Platform](https://github.com/ansarialireza/personal-ai-assistant)
 > **Full-Stack Multi-Channel AI Assistant & Knowledge Platform**  
-> *Django 5.2 · DRF · Next.js · TypeScript · PostgreSQL · Docker Compose · Shadow DOM*
+> *Django 5.2 | DRF | Next.js | TypeScript | PostgreSQL | Docker Compose | Shadow DOM*
 
 A standalone product platform for creating custom-scoped AI assistants, indexing domain documentation, orchestrating live conversations, and embedding interactive chat widgets.
 
@@ -75,11 +75,11 @@ A standalone product platform for creating custom-scoped AI assistants, indexing
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Backend & APIs** | `Python` · `Django` · `Django REST Framework` · `FastAPI` · `Alembic` · `Pydantic` · `RESTful Architecture` |
-| **Frontend & UI** | `TypeScript` · `JavaScript` · `React` · `Next.js` · `Tailwind CSS` · `Web Components (Shadow DOM)` |
-| **AI & Retrieval** | `RAG Pipelines` · `PostgreSQL pgvector` · `Document Ingestion & Chunking` · `Vector Search` · `LLM Tool Orchestration` |
-| **Data & Storage** | `PostgreSQL` · `Redis` · `Database Schema Migration` · `Relational Modeling` |
-| **DevOps & Tooling** | `Docker` · `Docker Compose` · `Git & GitHub Workflows` · `pytest` · `Ruff` · `Linux / WSL` |
+| **Backend & APIs** | `Python` | `Django` | `Django REST Framework` | `FastAPI` | `Alembic` | `Pydantic` | `RESTful Architecture` |
+| **Frontend & UI** | `TypeScript` | `JavaScript` | `React` | `Next.js` | `Tailwind CSS` | `Web Components (Shadow DOM)` |
+| **AI & Retrieval** | `RAG Pipelines` | `PostgreSQL pgvector` | `Document Ingestion & Chunking` | `Vector Search` | `LLM Tool Orchestration` |
+| **Data & Storage** | `PostgreSQL` | `Redis` | `Database Schema Migration` | `Relational Modeling` |
+| **DevOps & Tooling** | `Docker` | `Docker Compose` | `Git & GitHub Workflows` | `pytest` | `Ruff` | `Linux / WSL` |
 
 </div>
 
@@ -121,5 +121,5 @@ Whether you're looking for a **Full-Stack Software Engineer** to build productio
 ---
 
 <div align="center">
-  <sub>Designed &amp; engineered by <b>Alireza Ansari</b> · Electric Lime Brand System (#CCFF00)</sub>
+  <sub>Designed &amp; engineered by <b>Alireza Ansari</b> | Electric Lime Brand System (#CCFF00)</sub>
 </div>
