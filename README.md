@@ -32,26 +32,25 @@ Full-Stack Software Engineer focused on building resilient web applications, dis
 
 ### Selected Projects
 
-#### [Weirwise Core](https://github.com/ansarialireza/weirwise-core)
-> **Open-Source Modular RAG & Knowledge Retrieval Infrastructure**  
+#### [Weirwise RAG Core](https://github.com/ansarialireza/weirwise-rag-core)
+> **Open-Source Modular RAG & Knowledge Retrieval Infrastructure**
 > *Python · FastAPI · PostgreSQL · pgvector · Alembic · Docker · pytest*
 
-A self-hostable backend and client library for AI knowledge retrieval. Abstracts document ingestion pipelines, vector similarity search, and multi-tenant isolation into a clean developer API.
+A self-hostable headless backend for AI knowledge retrieval. Ingests documents, extracts text, generates vector embeddings, and performs native PostgreSQL + pgvector similarity search with strict multi-tenant isolation.
 
-- **Multi-Tenant Isolation**: Strict boundaries across knowledge bases, assistants, documents, and query runs.
-- **PostgreSQL / pgvector Retrieval**: Direct vector similarity search without heavy third-party vector database dependencies.
-- **Asynchronous Ingestion**: Background extraction worker for PDF, TXT, and Markdown documents with secure SHA-256 hashed API authentication.
-- **Python Client SDK**: Dedicated, typed client library (`packages/python-sdk`) for backend integration.
+- **Multi-Tenant Isolation**: Strict boundaries across tenants, knowledge bases, documents, and query runs.
+- **PostgreSQL / pgvector Retrieval**: Direct vector similarity search using Jina AI `jina-embeddings-v4` (1536 dimensions) without external vector database lock-in.
+- **Robust Ingestion Pipeline**: Asynchronous and inline extraction for PDF, DOCX, TXT, and Markdown documents with SHA-256 API authentication.
 
-#### [Personal AI Assistant Platform](https://github.com/ansarialireza/personal-ai-assistant)
-> **Full-Stack Multi-Channel AI Assistant & Knowledge Platform**  
-> *Django 5.2 · DRF · Next.js · TypeScript · PostgreSQL · Docker Compose · Shadow DOM*
+#### [Weirwise RAG Platform](https://github.com/ansarialireza/weirwise-rag-platform)
+> **Full-Stack Enterprise AI Assistant & Knowledge Platform**
+> *FastAPI · Next.js 14 · TypeScript · Tailwind CSS · SQLite/PostgreSQL · Docker*
 
-A standalone product platform for managing custom AI assistants, indexing domain sources, orchestrating multi-turn dialogues, and deploying interactive chat interfaces.
+The complete customer-facing product layer built on Weirwise Core, enabling teams to organize knowledge sources, configure domain-specific AI assistants, and converse with grounded citation verification.
 
-- **Full-Stack Architecture**: Django REST Framework API with Next.js frontend, JWT authentication, and owner-scoped queries.
-- **Multi-Channel Delivery**: Unified conversation routing across dashboard playground, Telegram bot webhooks, and embeddable Web Components.
-- **Embeddable Chat Widget**: Custom zero-style-bleed web component built with Shadow DOM and safe rendering for third-party websites.
+- **Assistant Studio**: Configure system instructions, temperature, and score thresholds with interactive real-time chat playgrounds.
+- **Knowledge Grounding**: Multi-file document upload with status tracking, verifiable citation attribution, and tenant-scoped retrieval.
+- **Client Application**: Responsive Next.js 14 web application featuring full workspace onboarding, project routing, and authenticated sessions.
 
 ---
 
